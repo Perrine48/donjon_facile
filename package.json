@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "bxslider": "^4.2.13",
+    "jquery": "^3.3.1",
+    "slick": "^1.12.2",
+    "slick-carousel": "^1.8.1"
   }
 }
